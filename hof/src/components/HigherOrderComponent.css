@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .display-box {
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .list-elements {
+    list-style: none;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+  }
+  
+  .list-elements span {
+    margin-right: 10px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  ul {
+    padding: 0;
+    margin: 0;
+  }
+  
+
+  
